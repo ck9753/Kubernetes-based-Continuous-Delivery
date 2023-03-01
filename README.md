@@ -1,4 +1,4 @@
-# Individual Project2: A functional rust microservice web application using spotify API
+# A functional rust microservice web application using spotify API
 
 ## Objectvices of Project
 
